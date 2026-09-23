@@ -1,24 +1,40 @@
-Hello AI. I am 林俊宇. Nice to meet you!
-1.Today is Wednesday, 2026.09.16
+# Lab1A 起手式: 零基礎Python程式 x 國高中數學快速入門
 
-<img width="883" height="670" alt="image" src="https://github.com/user-attachments/assets/841bc93d-8465-427f-a3fd-9b102b6debdd" />
+## 1. Calendar
 
-2. 數學模組 math 與經典 % 格式化輸出
+<img width="556" height="633" alt="image" src="https://github.com/user-attachments/assets/cff0604d-2bf3-4772-bd83-27ae337a16ba" />
 
-<img width="537" height="303" alt="image" src="https://github.com/user-attachments/assets/d2adc9fe-09cd-445d-a681-55f9dafbf4cf" />
 
-3.修復縮排與雙向 if-else 邏輯實作
+## 2. 最實用
 
-<img width="620" height="426" alt="image" src="https://github.com/user-attachments/assets/7cbd307b-bbe9-4f74-8b9a-db88e5573bc4" />
+<img width="694" height="435" alt="image" src="https://github.com/user-attachments/assets/a246330d-3e8e-43c5-b15b-36ff0e0989af" />
 
-4.Table 9X9
+## 3. 基礎
 
-<img width="1039" height="461" alt="image" src="https://github.com/user-attachments/assets/be459a56-7b5d-407d-ba69-abfef5ddde66" />
-5.異質串列存取與 enumerate() 走訪
+<img width="692" height="338" alt="image" src="https://github.com/user-attachments/assets/4e8ab1a7-149d-40df-a9df-0d5d177f77e8" />
 
-<img width="810" height="564" alt="image" src="https://github.com/user-attachments/assets/130c5b85-0a4c-45f2-9e51-47180b691235" />
+## 4. 控制
 
-6.字串清洗與替換實習
+<img width="605" height="254" alt="image" src="https://github.com/user-attachments/assets/1e979d74-2178-4df7-865a-7f30e5eaad8d" />
 
-<img width="868" height="417" alt="image" src="https://github.com/user-attachments/assets/bf93987e-1605-4901-a0a8-cbcf38deefcf" />
+## 5. 運算
+
+<img width="539" height="202" alt="image" src="https://github.com/user-attachments/assets/c77f1eb2-ff30-47fe-becb-3b331eab4fce" />
+
+## 6. 進階 迴圈
+
+<img width="712" height="217" alt="image" src="https://github.com/user-attachments/assets/562107f5-2a0d-4b94-a9c8-e266c0b4076c" />
+
+## 7. 條件迴圈
+
+<img width="686" height="144" alt="image" src="https://github.com/user-attachments/assets/832f9ac0-d98f-4b42-9fcc-62becab8bfff" />
+
+## 8. 函數 配合基礎,運算
+
+<img width="552" height="150" alt="image" src="https://github.com/user-attachments/assets/2f2c7ce7-f534-4d4f-889e-0ca8b9d42085" />
+
+## 9. 最後
+
+<img width="671" height="187" alt="image" src="https://github.com/user-attachments/assets/27bd6450-014d-4e3f-9952-e349a0d33fe1" />
+
 
