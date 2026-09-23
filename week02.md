@@ -1,9 +1,9 @@
-# Lab1A 起手式: 零基礎Python程式 x 國高中數學快速入門
+Hello AI. I am 林俊宇. Nice to meet you!
+Today is Wednesday, 2026.09.23
 
-## 1. Calendar
+## 1. 日曆
 
-<img width="556" height="633" alt="image" src="https://github.com/user-attachments/assets/cff0604d-2bf3-4772-bd83-27ae337a16ba" />
-
+<img width="703" height="660" alt="image" src="https://github.com/user-attachments/assets/dfb6b003-9543-4153-ad26-c73d10550783" />
 
 ## 2. 最實用
 
