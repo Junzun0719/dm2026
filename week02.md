@@ -20,4 +20,5 @@ Hello AI. I am 林俊宇. Nice to meet you!
 
 6.字串清洗與替換實習
 
-<img width="831" height="383" alt="image" src="https://github.com/user-attachments/assets/22c273ea-97a6-408d-973f-022916de1bfa" />
+<img width="868" height="417" alt="image" src="https://github.com/user-attachments/assets/bf93987e-1605-4901-a0a8-cbcf38deefcf" />
+
